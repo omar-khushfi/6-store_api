@@ -1,0 +1,1 @@
+This site provides API for a store for sale, as it includes creating a user, modifying it, obtaining a token, creating products, modifying them, and displaying them with a filter and Paginator, creating requests, modifying them, and deleting them.
